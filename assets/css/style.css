@@ -6,7 +6,7 @@
 }
 
 body {
-  background: rgba(141, 163, 158, 0.582);
+  background: rgba(70, 60, 30, 0.199);
 }
 
 .article-container {
@@ -71,7 +71,6 @@ body {
 }
 
 .reseau-item-link {
-  background: #fff;
   width: 45px;
   height: 45px;
   border-radius: 50%;
@@ -152,7 +151,8 @@ body {
 
 .figure-projet {
   transition: transform 0.7s ease;
-  margin-left: 30px;
+  margin-left:30px;
+
 }
 
 .figure-projet:hover {
