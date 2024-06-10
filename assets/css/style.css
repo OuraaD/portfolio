@@ -6,7 +6,7 @@
 }
 
 body {
-  background: rgba(70, 60, 30, 0.199);
+  background: rgba(209, 193, 180, 0.199);
 }
 
 .article-container {
@@ -19,7 +19,7 @@ body {
 
 .article-container .txt-h1-col {
   font-size: 3.5rem;
-  color: #fff;
+  color: #c0bebe;
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 00;
@@ -32,7 +32,7 @@ body {
   margin-top: 10px;
   font-size: 1.6rem;
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #c0bebe;
   text-align: center;
   font-weight: 700;
 }
@@ -46,7 +46,7 @@ body {
 
 .link-cv {
   text-decoration: none;
-  color: #fff;
+  color:#c0bebe;
   border: 1px solid white;
   padding: 8px 16px;
   font-family: "Raleway", sans-serif;
@@ -106,7 +106,7 @@ body {
 }
 
 .paragraph-txt {
-  color: #fff;
+  color:#c0bebe;
   font-size: 0.7rem;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -117,7 +117,7 @@ body {
   margin-top: 40px;
   text-align: center;
   font-size: 1.9rem;
-  color: #fff;
+  color: #c0bebe;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   cursor: pointer;
@@ -138,7 +138,7 @@ body {
 .projet-link-img p {
   margin-top: 20px;
   font-size: 1.1rem;
-  color: #fff;
+  color:#c0bebe;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
 }
@@ -160,7 +160,7 @@ body {
 }
 
 hr {
-  color: #fff;
+  color: #c0bebe;
   cursor: pointer;
 }
 
@@ -205,7 +205,7 @@ hr {
   font-size: 0.9rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  color: #fff;
+  color: #c0bebe;
   padding: 10px;
   cursor: pointer;
 }
